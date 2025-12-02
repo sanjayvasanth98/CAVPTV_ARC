@@ -1,2 +1,2 @@
 # CAVPTV_ARC
-CAVPTV designed to run on ARC
+CAVPTV modified to run on ARC
