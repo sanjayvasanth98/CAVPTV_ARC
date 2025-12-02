@@ -10,7 +10,7 @@
 #SBATCH --mem=380G
 #SBATCH --partition=a30_normal_q
 #SBATCH --mail-type=BEGIN,END,FAIL
-#SBATCH --mail-user=kbsanjayvasanth@vt.edu
+#SBATCH --mail-user=youremailid@vt.edu
 #SBATCH --job-name=bubblestat
 
 module reset
